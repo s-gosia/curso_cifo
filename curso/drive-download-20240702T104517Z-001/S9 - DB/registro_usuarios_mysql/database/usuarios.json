@@ -1,0 +1,26 @@
+[
+    {
+        "dni": "a",
+        "nombre": "a",
+        "email": "a",
+        "password": "a"
+    },
+    {
+        "dni": "b",
+        "nombre": "b",
+        "email": "b",
+        "password": "b"
+    },
+    {
+        "dni": "12345678P",
+        "nombre": "ssss",
+        "email": "hdhdd@jdjd.com",
+        "password": "Asdfghjk1"
+    },
+    {
+        "dni": "12345678G",
+        "nombre": "ddd",
+        "email": "ddd@djd.com",
+        "password": "Asdfghjk1"
+    }
+]
